@@ -3,6 +3,14 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# netbeans
+build/
+dist/
+
+# Archivos de Audio
+*.mp3
+*.wav
+
 # Package Files #
 *.jar
 *.war
